@@ -11,7 +11,7 @@ html, body{
  .background{
  	 width: 100%;
  	 height: 100%;
-     background-image: url(../michael9.jpg);
+     background-image: url(image/michael9.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      position: relative;
